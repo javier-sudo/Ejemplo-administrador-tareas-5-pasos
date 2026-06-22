@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow IA",
+  "description": "Una aplicación web interactiva y moderna para gestionar las tareas de un equipo con dashboard analítico, filtros avanzados y persistencia local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
